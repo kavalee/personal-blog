@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "9670a9c99f56f144",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e2decc64d6e879f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98c2775990df3a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/blog/posts/2025-03-11-starting.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-11-starting"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "258899af4a378462",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6fbea522fc3a816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a70e0f9408ef2bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6c23abe2d77078d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0db9fbdf6ef26f7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c9a627c1bdcc0b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "18f39e32a2016cf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cabee2c6b1cd0379",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/blog/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "a59cbcba4cb4ecd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/blog/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "811fdca6a38ac7cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dee9a0a71f63314a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a7075e8885447aa3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/blog/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0a70e0f9408ef2bb",
+  "lastOpenFiles": [
+    "obsidian-templates/Daily.md",
+    "docs/blog/posts/2025-03-11-starting.md",
+    "docs/blog/posts/2025-03-09-intro.md",
+    "docs/blog/posts/2025-03-10-intro.md",
+    "docs/blog/posts/2025-12-11.md",
+    "docs/blog/attachments/Pasted image 20251211031942.png",
+    "obsidian-templates",
+    "docs/blog/index.md",
+    "docs/blog/attachments/Pasted image 20251211031517.png",
+    "docs/index.md",
+    "docs/blog/posts/thesis/2025-03-10-intro.md",
+    "docs/blog/attachments",
+    "mkdocs.yml~",
+    "docs/blog/posts/posts",
+    "docs/blog/posts",
+    "docs/posts/turkish/2025-03-09-intro.md",
+    "docs/posts/turkish",
+    "docs/posts/thesis/2025-03-10-intro.md",
+    "docs/posts/thesis",
+    "docs/posts/posts",
+    "docs/posts/index.md",
+    "docs/posts/etc",
+    "docs/posts",
+    "site/assets/images/favicon.png",
+    "docs/blog/turkish/2025-03-09-intro.md",
+    "docs/blog/thesis/2025-03-10-intro.md"
+  ]
+}

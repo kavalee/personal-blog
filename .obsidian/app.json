@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "docs/blog/attachments",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs/blog/posts"
+}
