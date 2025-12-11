@@ -1,5 +1,7 @@
 name: Deploy MkDocs
 
+permissions:
+  contents: write   # <-- allow the action to push commits
 on:
   push:
     branches:
