@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "0a70e0f9408ef2bb",
+  "active": "98c2775990df3a50",
   "lastOpenFiles": [
+    "mkdocs.yml~",
     "obsidian-templates/Daily.md",
     "docs/blog/posts/2025-03-11-starting.md",
     "docs/blog/posts/2025-03-09-intro.md",
@@ -197,7 +198,6 @@
     "docs/index.md",
     "docs/blog/posts/thesis/2025-03-10-intro.md",
     "docs/blog/attachments",
-    "mkdocs.yml~",
     "docs/blog/posts/posts",
     "docs/blog/posts",
     "docs/posts/turkish/2025-03-09-intro.md",
